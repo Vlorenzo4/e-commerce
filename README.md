@@ -31,8 +31,6 @@ Backend application for an e-commerce platform built with NestJS and TypeScript.
 
 ## ⚙️ Installation & Setup
 
-### 1. Clone the repository
-
 ```bash
 git clone <your-repository-url>
 cd E-commerce/e-commerce/Backend
