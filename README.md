@@ -56,6 +56,10 @@ API_SECRET=your_api_secret
 JWT_SECRET=your_jwt_secret
 
 ## Run the project
+npm run start
+
+if you want to run it in development mode, use:
+npm run start:dev
 
 ## 📌 Usage
 
